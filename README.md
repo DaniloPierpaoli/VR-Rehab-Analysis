@@ -44,20 +44,20 @@ Using a mix of **synthetic and open-source datasets**, we develop a dual-domain 
 ##  Project Structure (Planned)
 
 ```text
- VR-Rehab-Analytics/
-├── data/
-│   ├── synthetic/
-│   ├── real/
-│   └── merged/
-├── notebooks/
-│   ├── 01_Data_Wrangling/
-│   ├── 02_EDA/
-│   ├── 03_SignalAnalysis/
-│   ├── 04_ML_Models/
-├── scripts/
-│   ├── simulate_patients.py
-│   ├── simulate_signals.py
-│   ├── fft_analysis.py
-├── powerbi/
-├── README.md
-├── requirements.txt
+VR-Rehab-Analytics/
+ ├── data/
+ │   ├── synthetic/
+ │   ├── real/
+ │   └── merged/
+ ├── notebooks/
+ │   ├── 01_Data_Wrangling/
+ │   ├── 02_EDA/
+ │   ├── 03_SignalAnalysis/
+ │   ├── 04_ML_Models/
+ ├── scripts/
+ │   ├── simulate_patients.py
+ │   ├── simulate_signals.py
+ │   ├── fft_analysis.py
+ ├── powerbi/
+ ├── README.md
+ ├── requirements.txt
